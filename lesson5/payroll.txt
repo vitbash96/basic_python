@@ -1,0 +1,5 @@
+Koskela 20000
+Harju 35000
+Tuopinen 40000
+Palmen 30000.25
+Loflund 6500.80
