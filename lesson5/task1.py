@@ -6,6 +6,6 @@ while True:
     try:
         with open(filename, 'a', encoding='utf-8') as myfile:
             myfile.write(f'{a}\n')
-    except IOError as e:
-        print(e)
+    except:
+        print('Something went wrong')
         break
